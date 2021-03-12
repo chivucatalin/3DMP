@@ -5,5 +5,5 @@ This is the original picture of the watermelon pixel art:
 
 ![Watermelon_Pixel](https://github.com/[chivucatalin]/[Chivu-3DMP]/blob/[alt]/pepene.jpg?raw=true)
 
-# Because i did not saved the original .f3d of the watermelon keychain , i created a new one with the .stl file .
+# Because i did not save the original .f3d of the watermelon keychain , i created a new one with the .stl file .
 
