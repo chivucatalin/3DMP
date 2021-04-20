@@ -10,7 +10,8 @@ First , I will list all of the components :
 - Support frame
 - Feeding port
 - Shredder shaft (two of them)-one also acts as an connecting rod for the crank
-- Crank
+- Crank 
+
 As an extra detail , I also added:
 - Trashbin,which will have all of the shredder discharges
 
