@@ -1,4 +1,5 @@
-[![Python: 3.6 | 3.7](https://img.shields.io/badge/Python-3.6%20%7C%203.7-brightgreen.svg)](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR)
+[![Autodesk: Fusion 360](https://img.shields.io/badge/Python-3.6%20%7C%203.7-brightgreen.svg)](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR)
+
 3D PRINTED SHREDDER MACHINE
 ==========
 This mechanism is my final project for the course "Printing and Modelling 3d".The usage of the mechanism is pretty simple:you can shred up certain things like paper,bananas,etc . I chose this mechanism for two reasons: the first one is that I wanted to choose something practical ,and everyone can agree that a shredder can be pretty useful. The second reason is a silly one : the shredder that was in the presenting video (which will be mentioned later) reminded me of an old shredder toy that I used to love when I was a kid , so I just had to create it, for the nostalgia.
