@@ -1,4 +1,4 @@
-[![Autodesk: Fusion 360](https://img.shields.io/badge/Python-3.6%20%7C%203.7-brightgreen.svg)](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR)
+[![Autodesk: Fusion 360](https://img.shields.io/badge/Autodesk-Fusion360-orange)](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR)
 
 3D PRINTED SHREDDER MACHINE
 ==========
