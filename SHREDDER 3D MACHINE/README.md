@@ -23,3 +23,7 @@ As an extra detail , I also added:
 This shredder does not use any electricity,nor a motor , so it is a perfect option for a toy.In order to use the shredder , you need to spin a crank that will make one of the pins to rotate ,also rotating the blades on that pin.On each pin ,you also have a gear that will make the other pin spin when you rotate the crank.Also,the blades are reversed ,because when you spin the crank ,one pin will rotate in one way and the other one in the opposite way.
 
 </details>
+
+Joints and motion study:
+------------------------------
+In the .f3d file of the mechanism there will be three joints:the first one is between the crank and the pin ,using revolute.The other ones will be also revolute between the pins and the lower body of the shredder.In order to make the mechanism work properly ,I created two motion links between the crank joint and the other two.That way ,the mechanism will work properly:when the crank moves,the pins will move too ,including the blades.You can see it in the motion study named (shredder_motion) in which I made the crank go opposite of what the revolute joint is supposed too(not a problem for the mechanism in real life,considering it is not needed to move one way or another)-that way the blades can actually shred things.There will be another motion study in which it will be shown how the mechanism works if the crank is rotated the other way around.
