@@ -20,6 +20,6 @@ As an extra detail , I also added:
   <summary><i>How it works:</i></summary>
 
 ---
-This shredder is not powered by any electricity , so it is a perfect option for a toy.In order to use the shredder , you need to spin a crank that will make one of the pins to rotate ,also rotating the blades on that pin.On each pin ,you also have a gear that will make the other pin spin when you rotate the crank.Also,the blades are reversed ,because when you spin the crank ,one pin will rotate in one way and the other one in the opposite way.
+This shredder does not use any electricity,nor a motor , so it is a perfect option for a toy.In order to use the shredder , you need to spin a crank that will make one of the pins to rotate ,also rotating the blades on that pin.On each pin ,you also have a gear that will make the other pin spin when you rotate the crank.Also,the blades are reversed ,because when you spin the crank ,one pin will rotate in one way and the other one in the opposite way.
 
 </details>
