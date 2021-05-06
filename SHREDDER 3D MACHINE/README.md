@@ -4,7 +4,7 @@
 ==========
 This mechanism is my final project for the course "Printing and Modelling 3d".The usage of the mechanism is pretty simple:you can shred up certain things like paper,bananas,etc . I chose this mechanism for two reasons: the first one is that I wanted to choose something practical ,and everyone can agree that a shredder can be pretty useful. The second reason is a silly one : the shredder that was in the presenting video (which will be mentioned later) reminded me of an old shredder toy that I used to love when I was a kid , so I just had to create it, for the nostalgia.
 
-How it works:
+Details of the mechanism:
 ------------------------------
 First , I will list all of the components :
 
@@ -17,9 +17,9 @@ First , I will list all of the components :
 As an extra detail , I also added:
 - Trashbin,which will have all of the shredder discharges
 <details>
-  <summary><i>Table of contents</i></summary>
+  <summary><i>How it works:</i></summary>
 
 ---
-Se vede?
+This shredder is not powered by any electricity , so it is a perfect option for a toy.In order to use the shredder , you need to spin a crank that will make one of the pins to rotate ,also rotating the blades on that pin.On each pin ,you also have a gear that will make the other pin spin when you rotate the crank.Also,the blades are reversed ,because when you spin the crank ,one pin will rotate in one way and the other one in the opposite way.
 
 </details>
