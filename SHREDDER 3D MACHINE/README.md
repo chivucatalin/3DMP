@@ -16,3 +16,10 @@ First , I will list all of the components :
 
 As an extra detail , I also added:
 - Trashbin,which will have all of the shredder discharges
+<details>
+  <summary><i>Table of contents</i></summary>
+
+---
+Se vede?
+
+</details>
