@@ -27,3 +27,13 @@ This shredder does not use any electricity,nor a motor , so it is a perfect opti
 Joints and motion study:
 ------------------------------
 In the .f3d file of the mechanism there will be three joints:the first one is between the crank and the pin ,using revolute.The other ones will be also revolute between the pins and the lower body of the shredder.In order to make the mechanism work properly ,I created two motion links between the crank joint and the other two.That way ,the mechanism will work properly:when the crank moves,the pins will move too ,including the blades.You can see it in the motion study named (shredder_motion) in which I made the crank go opposite of what the revolute joint is supposed too(not a problem for the mechanism in real life,considering it is not needed to move one way or another)-that way the blades can actually shred things.There will be another motion study in which it will be shown how the mechanism works if the crank is rotated the other way around.
+
+Important details
+------------------------------
+🚀 File types in this repository are .f3d and .stl 
+
+🔌 **Programs used for making this mechanism:** Fusion 360 for designing andcreating the motion study.
+
+📜 **The original design of this shredder machine is created by a prusaprinter created named transformator2020 ,here is a link to his account :
+-https://www.prusaprinters.org/social/85941-transformator2020/prints 
+-I also took inspiration from one youtuber who made this mechanism ,named Eureka [video](https://www.youtube.com/watch?v=ltVqj0MW_hQ)**
