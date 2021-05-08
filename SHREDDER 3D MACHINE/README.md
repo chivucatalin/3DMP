@@ -34,6 +34,6 @@ Important details
 
 🔌 **Programs used for making this mechanism:** Fusion 360 for designing andcreating the motion study.
 
-📜 **The original design of this shredder machine is created by a prusaprinter created named transformator2020 ,here is a link to his account:**
+📜 **The original design of this shredder machine is created by a prusaprinter named transformator2020 ,here is a link to his account:**
 - **https://www.prusaprinters.org/social/85941-transformator2020/prints** 
 - **I also took inspiration from one youtuber who made this mechanism ,named Eureka [video](https://www.youtube.com/watch?v=ltVqj0MW_hQ)**
