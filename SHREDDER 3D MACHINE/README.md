@@ -32,7 +32,7 @@ In the .f3d file of the mechanism there will be three joints:the first one is be
 
 Important details
 ------------------------------
-🚀 File types in this repository are .f3d and .stl 
+🚀 File types in this repository are .f3d, .stl, .png and .mp4 
 
 🔌 **Programs used for making this mechanism:** Fusion 360 for designing andcreating the motion study.
 
