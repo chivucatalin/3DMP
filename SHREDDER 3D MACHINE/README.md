@@ -16,7 +16,7 @@ First , I will list all of the components :
 
 As an extra detail , I also added:
 - Trashbin,which will have all of the shredder discharges
-- Being more of a children toy than an shredder that people can use ,I wanted it to be more kid-friendly. Seeing the opportunity ,I tried sculpting in Fusion 360 to create a penguin that can make the project look cuter and more kid-appealing.
+- Being more of a children toy than an shredder that people can use ,I wanted it to be more kid-friendly. Seeing the opportunity ,I tried sculpting in Fusion 360 to create a penguin that can make the project look cuter and more kid-appealing. <br/>
 !This components are not needed for the mechanism to work and are just a few additions.
 <details>
   <summary><i>How it works:</i></summary>
