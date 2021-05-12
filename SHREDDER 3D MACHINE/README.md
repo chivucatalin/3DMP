@@ -42,4 +42,4 @@ Important details
 
 !Final look of the project!
 ======
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 120”>
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/chivucatalin/Chivu-3DMP/blob/main/SHREDDER%203D%20MACHINE/shredder.png”>
