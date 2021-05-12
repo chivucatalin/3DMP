@@ -42,4 +42,4 @@ Important details
 
 !Final look of the project!
 ======
-<img src="e5kui/src/assets/img/launch/bunda3d5000FloorElevatorControlsFigmaPrototypeFileRouting.png" width="800px" height="auto">
+<img src="https://github.com/chivucatalin/Chivu-3DMP/blob/main/SHREDDER%203D%20MACHINE/shredder.png?raw=true" width="800px" height="auto">
