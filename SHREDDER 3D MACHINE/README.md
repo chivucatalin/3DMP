@@ -39,3 +39,7 @@ Important details
 📜 **The original design of this shredder machine is created by a prusaprinter named transformator2020 ,here is a link to his account:**
 - **https://www.prusaprinters.org/social/85941-transformator2020/prints** 
 - **I also took inspiration from one youtuber who made this mechanism ,named Eureka [video](https://www.youtube.com/watch?v=ltVqj0MW_hQ)**
+
+!Final look of the project!
+======
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 120”>
