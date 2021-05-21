@@ -42,4 +42,4 @@ Important details
 
 !Final look of the project!
 ======
-<img src="https://github.com/chivucatalin/Chivu-3DMP/blob/main/SHREDDER%203D%20MACHINE/shredder.png?raw=true" width="800px" height="auto">
+<img src="https://github.com/chivucatalin/Chivu-3DMP/blob/main/SHREDDER%203D%20MACHINE/RENDERS/position1.png?raw=true" width="800px" height="auto">
