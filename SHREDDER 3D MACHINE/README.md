@@ -15,7 +15,7 @@ First , I will list all of the components :
 - Crank 
 
 As an extra detail , I also added:
-- Trashbin,which will have all of the shredder discharges
+- Trash holder,which will have all of the shredder discharges
 - Being more of a children toy than an shredder that people can use ,I wanted it to be more kid-friendly. Seeing the opportunity ,I tried sculpting in Fusion 360 to create a penguin that can make the project look cuter and more kid-appealing. <br/>
 **!This components are not needed for the mechanism to work and are just a few additions.**
 <details>
@@ -28,11 +28,13 @@ This shredder does not use any electricity,nor a motor , so it is a perfect opti
 
 Joints and motion study:
 ------------------------------
-In the .f3d file of the mechanism there will be three joints:the first one is between the crank and the pin ,using revolute.The other ones will be also revolute between the pins and the lower body of the shredder.In order to make the mechanism work properly ,I created two motion links between the crank joint and the other two.That way ,the mechanism will work properly:when the crank moves,the pins will move too ,including the blades.You can see it in the motion study named (shredder_motion) in which I made the crank go opposite of what the revolute joint is supposed too(not a problem for the mechanism in real life,considering it is not needed to move one way or another)-that way the blades can actually shred things.There will be another motion study in which it will be shown how the mechanism works if the crank is rotated the other way around.
+In the .f3d file of the mechanism there will be three joints:the first one is between the crank and the pin ,using revolute.The other ones will be also revolute between the pins and the lower body of the shredder.In order to make the mechanism work properly ,I created two motion links between the crank joint and the other two.That way ,the mechanism will work properly:when the crank moves,the pins will move too ,including the blades.You can see it in the motion study named (shredder_motion) . However , the motion study shows how the mechanism works backwards(specifically ,the blades move backwards,not as intended).This is not an issue in Fusion 360 as the direction in which the joint go does not change the motion in any way, but in real life it shall be noted that the mechanism will make the blades move as intended.
 
 Important details
 ------------------------------
 🚀 File types in this repository are .f3d, .stl, .png and .mp4 
+
+📏 The measurements of the mechanism itself are 20 x 20 x 20 cm.However,the addition of the trash holder and of the penguin made the mechanism bigger .
 
 🔌 **Programs used for making this mechanism:** Fusion 360 for designing andcreating the motion study.
 
